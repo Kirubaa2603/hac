@@ -3,3 +3,4 @@ streamlit
 langchain
 langchain_community
 chromadb
+langchain-groq
